@@ -26,7 +26,7 @@ BEGIN
         PRINT "Team Lead: Excellent updates. Continue monitoring and PING me for urgent issues."
     END FUNCTION
 
-        PRINT "Uncommon operational term used above: Sandbox is a safe test place; Backdoor is a secret way into a system; Legacy is an old system/code still being used."
+        PRINT "Uncommon Operational Term used above: Sandbox is a safe test place; Backdoor is a secret way into a system; Legacy is an old system/code still being used."
 
     CALL MorningSyncMeeting()
 END
